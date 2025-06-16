@@ -23,6 +23,7 @@ int main() {
             default: printf("Invalid choice.\n");
         }
     } while(choice != 5);
-
+    printf("Hello World");
+    printf("PMT Lab");
     return 0;
 }
