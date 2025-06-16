@@ -13,6 +13,7 @@ void add_student() {
 
     printf("Enter Roll Number: ");
     printf("Enter USN: ");
+    printf("hello world ");
     scanf("%d", &s.roll);
     printf("Enter Name: ");
     scanf(" %[^\n]", s.name); // Read full line including spaces
