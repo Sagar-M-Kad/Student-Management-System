@@ -5,5 +5,6 @@ void add_student() {
     // To be implemented by Member A
     int n=10;
     int n1=20;
-    
+    int num=30;
+
 }
