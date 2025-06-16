@@ -24,5 +24,6 @@ int main() {
         }
     } while(choice != 5);
     printf("Hello World");
+    printf("PMT Lab");
     return 0;
 }
